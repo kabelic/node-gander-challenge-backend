@@ -1,7 +1,7 @@
 # node-gander-challenge-backend
 
 run backend 
-npm run dev
+-->npm run dev
 
 run test
-npx jest
+-->npx jest
